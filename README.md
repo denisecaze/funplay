@@ -8,6 +8,4 @@ My team chose Youtube API and we made a game where the user elaborates a sequenc
 + HTML5
 + CSS3
 + JavaScript 
-+ React
-+ Local Storage
-+ [Mercado Livre API](https://developers.mercadolivre.com.br/) 
++ [Youtube API](https://developers.google.com/youtube/v3/) 
